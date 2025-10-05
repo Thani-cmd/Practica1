@@ -1,6 +1,6 @@
 <?php
     include(".../includes/header.php");
-    include('datos.php');
+    include('.../data/datos.php');
 ?>
 
     <main>
